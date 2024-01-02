@@ -1,2 +1,2 @@
 # script-review
-A Repository for ideas to discuss with DS team + scripts to be reviewed
+This repo is for demo purposes only, nothing productive in here
